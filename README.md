@@ -4,7 +4,7 @@ Write-ups of IT problems that took real digging to solve. Each one documents wha
 
 ## Why this repo exists
 
-I'm Sticks, a Fachinformatiker für Systemintegration working as an IT system administrator at a university research institute in Germany.
+I'm Priviledge AKA MrPrivii AKA Sticks, a Fachinformatiker für Systemintegration working as an IT system administrator at a university research institute in Germany.
 
 Most of the problems I've learned the most from had no clean answer online. The fix was spread across a forum thread, a vendor blog and an event log, and sometimes it was written in a language I don't speak. One of the bugs here was solved with an article from Microsoft's Japanese support team.
 
